@@ -6,6 +6,8 @@ Kirby field which hides the sidebar and extends the content area full width.
 
 Best used in combo with [kirby-index-field](https://github.com/jongacnik/kirby-index-field)
 
+![Preview](https://github.com/jongacnik/kirby-hidebar-field/blob/master/preview.jpg?raw=true)
+
 ## Usage
 
 ```yaml
