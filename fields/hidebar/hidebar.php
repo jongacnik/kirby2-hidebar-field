@@ -9,7 +9,7 @@ class HidebarField extends BaseField {
         .mainbar { width: 100% }
         .sidebar { display: none }
         .bars-with-sidebar-left:before { background: none }
-        .ltr .mainbar .form .buttons { left: 0 }
+        .ltr .mainbar .form .buttons { left: 0; width: 100%; }
       }
     ';
 
